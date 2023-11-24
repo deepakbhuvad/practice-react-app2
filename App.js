@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 
 
-/** TEMP COMMENTED 
+/** TEMP COMMENTED TESTING
 const heading = React.createElement("h1", {id: 'myHeading'}, "Hello World from React");
 console.log(heading);
 const parentData = document.getElementById('root');
