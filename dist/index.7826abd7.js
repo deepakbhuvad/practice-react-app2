@@ -2947,7 +2947,7 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
-/**
+/** temp commented 
 const heading = React.createElement("h1", {id: 'myHeading'}, "Hello World from React");
 console.log(heading);
 const parentData = document.getElementById('root');
