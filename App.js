@@ -19,7 +19,7 @@ root.render(heading);
     ])
 ]);*/
 
-const heading = React.createElement("h1", {id: 'parent'}, "Hello World from React");
+const heading = React.createElement("h1", {id: 'parent'}, "Hello World from React JS..");
 console.log(heading);
 const parentData = document.getElementById("root");
 const root = ReactDOM.createRoot(parentData);

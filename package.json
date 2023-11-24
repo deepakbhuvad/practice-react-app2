@@ -1,0 +1,27 @@
+{
+  "name": "practice-react-app2",
+  "version": "1.0.0",
+  "description": "This is react app by deepak",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakbhuvad/practice-react-app2.git"
+  },
+  "author": "Deepak Bhuvad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakbhuvad/practice-react-app2/issues"
+  },
+  "homepage": "https://github.com/deepakbhuvad/practice-react-app2#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
